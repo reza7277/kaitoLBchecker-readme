@@ -1,4 +1,4 @@
-# YapperBot
+# Kaito leaderboard checker bot
 
 ## Project Overview
 
