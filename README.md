@@ -66,7 +66,11 @@ State management uses a hybrid approach: ephemeral user sessions in memory for a
 
 I'm a backend engineer with expertise in Python, async systems, web automation, and scalable bot architectures. If you're looking for high-quality automation solutions, Telegram bot development, or backend engineering support, let's connect.
 
-**GitHub**: [github.com/reza7277](https://github.com/reza7277)
+- **Email:** [contact@reza7277.site](mailto:contact@reza7277.site)
+- **Website:** [reza7277.site](https://reza7277.site)
+- **GitHub:** [github.com/reza7277](https://github.com/reza7277)
+- **X (Twitter):** [@reza_7277](https://x.com/reza_7277)
+- **Telegram:** [@reza_7277](https://t.me/reza_7277)
 
 ---
 
